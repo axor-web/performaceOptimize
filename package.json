@@ -1,0 +1,26 @@
+{
+  "name": "shri2023-task",
+  "version": "1.0.0",
+  "description": "## Задание Оптимизировать страницу, выложить результат на Github-Pages и отправить его на проверку на [https://shri-performance.ru/](https://shri-performance.ru/), отправив адрес вашей страницы. Нужно набрать минимум **100 баллов**.",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axor-web/performaceOptimize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axor-web/performaceOptimize/issues"
+  },
+  "homepage": "https://github.com/axor-web/performaceOptimize#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.22.5",
+    "@babel/core": "^7.22.5",
+    "@babel/preset-react": "^7.22.5",
+    "babel": "^6.23.0"
+  }
+}
